@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_02_GetAirPollutionJaksel</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>647b3821-3478-4d11-a8d4-11e1476beb9f</testCaseGuid>
+</TestCaseEntity>
